@@ -1,0 +1,8 @@
+---
+title:  "COMP26120: Algorithms and Imperative Programming"
+role: Teaching Assistant
+layout: course
+location: University of Manchester
+year: "2013, 2014, 2015, 2017"
+link_visible: false
+---

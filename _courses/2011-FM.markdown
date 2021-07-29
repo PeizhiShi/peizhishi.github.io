@@ -1,0 +1,8 @@
+---
+title:  "3rd Asian-Pacfic Summer School on Formal Methods"
+role: Teaching Assistant
+layout: course
+location: University of Science and Technology of China
+year: "2011"
+link_visible: false
+---

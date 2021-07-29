@@ -1,0 +1,8 @@
+---
+title:  "COMP61021: Modelling and Visualization of High Dimensional Data"
+role: Teaching Assistant
+layout: course
+location: University of Manchester
+year: "2015"
+link_visible: false
+---

@@ -1,0 +1,2 @@
+{% if link_visible %}<a href="{{ post.url | relative_url }}"><b>{{ post.title }}</b></a>{% else %}<b>{{ post.title }}</b>{% endif %}.<br/>
+{{ post.role }}, {{ post.location }}, {{ post.year }}

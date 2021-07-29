@@ -1,0 +1,2 @@
+{% if link_visible %}<a href="{{ post.url | relative_url }}"><b>{{ post.title }}</b></a>{% else %}<b>{{ post.title }}</b>{% endif %}.<br/>
+{% if display_authors %}{% for author in post.authors %}{% if author == "Peizhi Shi" %}<b>Peizhi Shi</b>{% else %}{{ author }}{% endif %}{% if forloop.last %}. <br />{% else %}, {% endif %}{% endfor %}{% endif %}{% if post.journal %}<i>{{ post.journal }}, {{ post.year }}.</i>{% endif %}

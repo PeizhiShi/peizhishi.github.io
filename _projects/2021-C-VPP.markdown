@@ -1,0 +1,15 @@
+---
+title:  "Automatic determination of part build orientation for laser powder bed fusion"
+authors: [Yuchu Qin, Qunfen Qi, Peizhi Shi, Paul Scott, Xiangqian Jiang]
+layout: project
+journal: Virtual and Physical Prototyping
+year: 2021 
+link_visible: true
+keywords: "Laser powder bed fusion, computer-aided part, orientation, process planning, alternative orientation, optimal orientation."
+abstract: "In this paper, an automatic determination method of part build orientation for laser powder bed fusion is presented. This method includes two steps. First, an existing facet clustering-based approach is applied to automatically generate the alternative orientations of a laser powder bed fusion part. Second, support volume, volumetric error, surface roughness, build time and build cost are considered. Their values in each alternative orientation are estimated by certain
+estimation models. The weights of these factors are determined via pairwise comparison. The weighted sum model is used to calculate a summary value of the factors in each alternative orientation. According to the calculated summary values, an optimal orientation to build the part is generated. To demonstrate the method, a set of part orientation cases are tested, and effectiveness analysis and efficiency and characteristic comparisons are reported. The demonstration results suggest that the proposed method can work for both regular and freeform surface models, produce stable and reasonable results and provide desired efficiency."
+doi: "https://doi.org/10.1080/17452759.2020.1832793"
+pdf: "https://www.tandfonline.com/doi/pdf/10.1080/17452759.2020.1832793"
+github: "https://github.com/YuchuChingQin/LPBFPartOrientation"
+paper_published: true
+---

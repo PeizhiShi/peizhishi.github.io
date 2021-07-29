@@ -1,0 +1,8 @@
+---
+title:  "COMP24111: Introduction to Machine Learning"
+role: Teaching Assistant
+layout: course
+location: University of Manchester
+year: "2015"
+link_visible: false
+---

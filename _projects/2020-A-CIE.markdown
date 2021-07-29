@@ -1,0 +1,14 @@
+---
+title:  "Novel operational laws and power muirhead mean operators of picture fuzzy values in the framework of Dempster-Shafer theory for multiple criteria decision making"
+authors: [Yuchu Qin, Qunfen Qi, Peizhi Shi, Paul Scott, Xiangqian Jiang]
+layout: project
+journal: Computers & Industrial Engineering
+year: 2020 
+link_visible: true
+keywords: "Multiple criteria decision making, picture fuzzy value, dempster-Shafer theory, operational law, aggregation operator."
+abstract: "Two critical steps in multiple criteria decision making are to quantify the considered criteria and to evaluate the quantified criteria to determine desirable alternatives. An important tool for the first step is picture fuzzy value and a convincing way for the second step is to use aggregation operators. So far, a number of aggregation operators of picture fuzzy values have been presented. These operators have common advantages in providing satisfying generality in capturing the interactions of criteria and having the capability to reduce the influence of biased criterion values. But they sometimes produce unreasonable aggregation results due to a few undesirable properties of their applied operational laws. In this paper, the Dempster-Shafer theory is introduced into the picture fuzzy environment and a set of novel operational laws of picture fuzzy values in the framework of this theory are firstly developed. Then some power Muirhead mean operators of picture fuzzy values based on the developed operational laws are presented. On the basis of the presented operators, a method for solving the multiple criteria decision making problems with picture fuzzy values is proposed. This method is illustrated via a practical example and validated via quantitative and qualitative comparisons. The validation results suggest that the method can maintain the common advantages of the existing aggregation operators of picture fuzzy values and concurrently address their common limitations."
+doi: "https://doi.org/10.1016/j.cie.2020.106853"
+pdf: "https://reader.elsevier.com/reader/sd/pii/S0360835220305520?token=0CD4702F08B87A6C1B8137C42E0A3F6E5A06FF43C090515521D0B43104657BD27F2D575603453A6129C51B74CCE05F71&originRegion=eu-west-1&originCreation=20210729122904"
+github: "https://github.com/YuchuChingQin/PFPMMOperatorsInDST"
+paper_published: true
+---
