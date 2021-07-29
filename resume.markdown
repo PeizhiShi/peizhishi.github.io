@@ -27,7 +27,7 @@ Research Fellow, June 2019 - present
 
 **Machine Learning**: Deep learning, active learning, cost-sensitive classfication, random forests, support vector machine, neural network, hidden markov model, naive bayes, principal component analysis, liner regression, softmax, clustering, graph partitioning, manifold learning, Q learning and Thompson sampling.
 
-**Computer Science and Mathematics**: Calculus, linear algebra, statistics, data structure, algorithm, compiling theory, operating system, database, programming (i.e. C, C++, Python, Matlab, Java, C#, assembly language).
+**Computer Science and Mathematics**: Calculus, linear algebra, statistics, data structure, algorithm, programming (i.e. C, C++, Python, Matlab, Java, C#, assembly language).
 
 **Languages**: Chinese (native), English (proficient).
 
