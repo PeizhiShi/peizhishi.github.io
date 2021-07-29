@@ -5,5 +5,6 @@ layout: project
 year: 2012
 journal: Asian Symposium on Programming Languages and Systems
 link_visible: false
+paper_published: true
 ---
 
