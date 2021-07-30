@@ -16,8 +16,9 @@ My current research interests include machine learning and its applications in i
 
 
 \
-[**<i class="far fa-envelope"></i>** &nbsp;Email](mailto:{{site.email}})&emsp;&emsp;
-[**<i class="fas fa-graduation-cap" style="color:rgb(66,133,244)"></i>** &nbsp;Google Scholar]({{site.google}})&emsp;&emsp;
-[**<i class="fab fa-github"></i>** &nbsp;Github]({{site.github}})&emsp;&emsp;
-[**<i class="fab fa-orcid" style="color:rgb(166,206,57)"></i>**  &nbsp;ORCID]({{site.orcid}})&emsp;&emsp;
+**<i class="far fa-envelope"></i>** &nbsp;[Email](mailto:{{site.email}})&emsp;&emsp;
+**<i class="fas fa-graduation-cap" style="color:rgb(66,133,244)"></i>** &nbsp;[Google Scholar]({{site.google}})&emsp;&emsp;
+**<i class="fab fa-github"></i>** &nbsp;[Github]({{site.github}})&emsp;&emsp;
+**<i class="fab fa-orcid" style="color:rgb(166,206,57);"></i>**  &nbsp;[ORCID]({{site.orcid}})&emsp;&emsp;
+
 
