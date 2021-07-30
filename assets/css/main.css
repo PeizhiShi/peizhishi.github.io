@@ -105,6 +105,8 @@ mark {
 		font-weight: bold;
 	}
 
+	
+
 	strong, b {
 		font-weight: 700;
 		color: #232323;
@@ -192,10 +194,26 @@ mark {
 		position: relative;
 	}
 
-	.box.post a {
+	/*.box.post a {
 		text-decoration:none;
+	}*/
+	.box.post a {
+		text-decoration: none;
+  		background: 
+    			linear-gradient(to right, rgba(230, 230, 230, 1), rgba(230, 230, 230, 1)),
+    			linear-gradient(to right, rgba(150, 150, 150, 1), rgba(150, 150, 150, 1));
+  		background-size: 100% 0.1em, 0 0.1em;
+  		background-position: 100% 100%, 100% 100%;
+  		background-repeat: no-repeat;
+  		transition: background-size 400ms;
 	}
 
+	.box.post a:hover,
+	.box.post a:focus {
+  		background-size: 0 0.1em, 100% 0.1em;
+	}
+
+	
 		
 
 
