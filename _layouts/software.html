@@ -20,10 +20,12 @@ layout: default
 <p><b>Index Terms</b>: {{page.keywords}}</p><br/>
 {% endif %}
 
+<div id="link">
 {% if page.github %}
-<a href={{ page.github}} style="color:black; background:#fff;"><i class="fab fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+<a href={{ page.github}}><i class="fab fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
 {% endif %}
 
 {% if page.demo %}
-<a href={{ page.demo}} style="color:black; background:#fff;"><i class="fas fa-file-video fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+<a href={{ page.demo}}><i class="fas fa-file-video fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
 {% endif %}
+</div>
