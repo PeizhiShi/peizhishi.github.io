@@ -20,12 +20,18 @@ layout: default
 <p><b>Index Terms</b>: {{page.keywords}}</p><br/>
 {% endif %}
 
-<div id="link">
+{% if page.doi %}
+<strong><i class="fas fa-link" style="color:rgb(66,133,244)"></i></strong> &nbsp; <a href={{ page.doi}}>Doi</a>&emsp;&emsp;
+{% endif %}
+
 {% if page.github %}
-<a href={{ page.github}}><i class="fab fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+<strong><i class="fab fa-github"></i></strong> &nbsp; <a href={{ page.github}}>Github</a>&emsp;&emsp;
+{% endif %}
+
+{% if page.pdf %}
+<strong><i class="fas fa-file-pdf" style="color:rgb(209,21,22)"></i></strong> &nbsp; <a href={{ page.pdf}}>Pdf</a>&emsp;&emsp;
 {% endif %}
 
 {% if page.demo %}
-<a href={{ page.demo}}><i class="fas fa-file-video fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+<strong><i class="fas fa-file-video" style="color:rgb(66,133,244)"></i></strong> &nbsp; <a href={{ page.demo}}>Demo</a>&emsp;&emsp;
 {% endif %}
-</div>
