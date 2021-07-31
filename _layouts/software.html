@@ -1,0 +1,29 @@
+---
+layout: default
+---
+{% assign post = page %}
+{% assign link_visible = false %}
+{% include achieve_software_title.html %}
+
+{% if page.description %}
+<p></p>
+<p><b>Software description</b>: {{page.description}}</p>
+{% endif %}
+
+{% if page.paper %}
+<p></p>
+<p><b>Publication</b>: <a href= {{page.url | replace:'/softwares/','/publications/'}}>{{page.paper}}</a></p>
+{% endif %}
+
+{% if page.keywords %}
+<p></p>
+<p><b>Index Terms</b>: {{page.keywords}}</p><br/>
+{% endif %}
+
+{% if page.github %}
+<a href={{ page.github}} style="color:black; background:#fff;"><i class="fab fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+{% endif %}
+
+{% if page.demo %}
+<a href={{ page.demo}} style="color:black; background:#fff;"><i class="fas fa-file-video fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+{% endif %}

@@ -1,0 +1,11 @@
+---
+title:  "SsdNet for machining feature recognition implemented via deep learning"
+layout: software
+year: 2021 
+link_visible: true
+keywords: "Deep learning, feature recognition, Industrie 4.0, 3-D feature localization, single shot multibox detector (SSD)."
+brief: "Python code for the paper published in IEEE Transactions on Industrial Informatics"
+description: "In Industrie 4.0, machines are expected to become autonomous, self-aware and self-correcting. One important step in the area of manufacturing is feature recognition that aims to detect all the machining features from a 3-D model. In this research area, recognizing and locating a wide variety of highly intersecting features are extremely challenging as the topology information of features is substantially damaged because of the feature intersection. Motivated by the single shot multibox detector (SSD) and our previous project, this project presents a novel deep learning approach named SsdNet to tackle the machining feature localization and recognition problem. The typical SSD is designed for 2-D image objection detection rather than 3-D feature recognition. Therefore, the network architecture and output of SSD are modified to fulfil the purpose of this research. In addition, some advanced techniques are also utilized to further enhance the recognition performance."
+paper: "Intersecting machining feature localisation and recognition via single shot multibox detector"
+github: "https://github.com/PeizhiShi/SsdNet"
+---

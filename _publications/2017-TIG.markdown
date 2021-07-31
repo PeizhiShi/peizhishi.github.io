@@ -1,0 +1,12 @@
+---
+title:  "Learning constructive primitives for real-time dynamic difficulty adjustment in Super Mario Bros"
+authors: [Peizhi Shi, Ke Chen]
+layout: publication
+year: 2017
+journal: IEEE Transactions on Games
+link_visible: false
+---
+
+
+
+

@@ -1,0 +1,10 @@
+---
+title:  "Online level generation in Super Mario Bros via learning constructive primitives"
+authors: [Peizhi Shi, Ke Chen]
+layout: publication
+year: 2016
+journal: IEEE Conference on Computational Intelligence and Games
+link_visible: false
+---
+
+

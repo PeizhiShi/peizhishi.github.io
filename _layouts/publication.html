@@ -1,0 +1,34 @@
+---
+layout: default
+---
+{% assign post = page %}
+{% assign link_visible = false %}
+{% assign display_authors = true %}
+{% include achieve_paper_title.html %}
+
+{% if page.abstract %}
+<p></p>
+<p><b>Abstract</b>: {{page.abstract}}</p>
+{% endif %}
+
+{% if page.keywords %}
+<p></p>
+<p><b>Index Terms</b>: {{page.keywords}}</p><br/>
+{% endif %}
+
+{% if page.doi %}
+<a href={{ page.doi}} style="color:black; background:#fff;"><i class="fas fa-link fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+{% endif %}
+
+{% if page.github %}
+<a href={{ page.github}} style="color:black; background:#fff;"><i class="fab fa-github fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+{% endif %}
+
+{% if page.pdf %}
+<a href={{ page.pdf}} style="color:black; background:#fff;"><i class="fas fa-file-pdf fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+{% endif %}
+
+{% if page.demo %}
+<a href={{ page.demo}} style="color:black; background:#fff;"><i class="fas fa-file-video fa-lg"></i></a>&nbsp;&nbsp;&nbsp;
+{% endif %}
+

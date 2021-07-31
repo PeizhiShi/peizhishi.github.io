@@ -1,0 +1,13 @@
+---
+title:  "Intersecting machining feature localisation and recognition via single shot multibox detector"
+authors: [Peizhi Shi, Qunfen Qi, Yuchu Qin, Paul Scott, Xiangqian Jiang]
+layout: publication
+journal: "IEEE Transactions on Industrial Informatics"
+year: 2021 
+link_visible: true
+keywords: "Deep learning, feature recognition, Industrie 4.0, 3-D feature localization, single shot multibox detector (SSD)."
+abstract: "In Industrie 4.0, machines are expected to become autonomous, self-aware and self-correcting. One important step in the area of manufacturing is feature recognition that aims to detect all the machining features from a 3-D model. In this research area, recognizing and locating a wide variety of highly intersecting features are extremely challenging as the topology information of features is substantially damaged because of the feature intersection. Motivated by the single shot multibox detector (SSD), this article presents a novel deep learning approach named SsdNet to tackle the machining feature localization and recognition problem. The typical SSD is designed for 2-D image objection detection rather than 3-D feature recognition. Therefore, the network architecture and output of SSD are modified to fulfil the purpose of this research. In addition, some advanced techniques are also utilized to further enhance the recognition performance. Experimental results on the benchmark dataset confirm that the proposed method achieves the state-of-the-art feature recognition performance (95.20% F-score), localization performance (90.62% F-score), and recognition efficiency (243.85 ms per model)."
+github: "https://github.com/PeizhiShi/SsdNet"
+doi: "https://doi.org/10.1109/TII.2020.3030620"
+pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9222288"
+---

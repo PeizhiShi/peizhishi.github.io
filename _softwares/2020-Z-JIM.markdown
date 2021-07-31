@@ -1,0 +1,14 @@
+---
+title: "MsvNet for machining feature recognition implemented via deep learning"
+brief: "Python code for the paper published in Journal of Intelligent Manufacturing"
+paper:  "A novel learning-based feature recognition method using multiple sectional view representation"
+layout: software
+year: 2020
+link_visible: true
+keywords: "Feature recognition, deep learning, multiple sectional views, transfer learning, data augmentation."
+description: "In computer-aided design (CAD) and process planning (CAPP), feature recognition is an essential task which identifies the feature type of a 3D model for computer-aided manufacturing (CAM). This project aims to present a deep learning framework based on multiple sectional view (MSV) representation named MsvNet for feature recognition. In the MsvNet, MSVs of a 3D model are collected as the input of the deep network, and the information achieved from different views are combined via the neural network for recognition. In addition to MSV representation, some advanced learning strategies (e.g. transfer learning, data augmentation) are also employed to minimise the number of training samples and training time. For multi-feature recognition, a novel view-based feature segmentation and recognition algorithm is presented. This work has been published in Journal of Intelligent Manufacturing."
+github: "https://github.com/PeizhiShi/MsvNet"
+---
+
+
+

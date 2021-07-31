@@ -1,0 +1,7 @@
+---
+title:  "Formal verification of thread management and queue spin lock"
+layout: software
+brief: "Master project implemented in Coq"
+year: "2010-2013" 
+link_visible: false
+---

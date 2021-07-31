@@ -7,12 +7,10 @@ permalink: publications.html
 ## Publications
 
 
-{% for post in site.projects reversed %} 
+{% for post in site.publications reversed %} 
 {% assign link_visible = post.link_visible %}
 {% assign display_authors = true %}
-{% if post.paper_published %}
-{% include achieve_project_title.html %}
-{% endif %}
+{% include achieve_paper_title.html %}
 {% endfor %}
 
 

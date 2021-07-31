@@ -1,0 +1,11 @@
+---
+title:  "Hand gesture recognition system using hidden markov model"
+layout: software
+brief: "Passion project developed in C++"
+year: "2011" 
+link_visible: true
+demo : "https://www.cs.man.ac.uk/~shipa/request/demo.rmvb"
+keywords: "Computer vision, hand gesture recognition, hidden markov model."
+description: "This project aims to implement a computer vision system that could recognize a number of hand gestures via a camera. In this project, a skin model was implemented to detect the skin area, and a motion model was designed to detect the movement area. Then, a hidden markov model was trained to detect several predefined hand gestures."
+paper_published: false
+---

@@ -58,9 +58,11 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  projects:
+  publications:
     output: true
   courses:
+    output: true
+  softwares:
     output: true
 
 menu: 
@@ -68,15 +70,15 @@ menu:
     url: "index.html"
   Publications:
     url: "publications.html"
-#  Research:
-#    url: "research.html"
   Teaching:
     url: "teaching.html"
+  Software:
+    url: "software.html"
   Resume:
     url: "resume.html"
 
 email: "p.shi@hud.ac.uk"
-webpage: "http://peizhi-shi.ml"
+webpage: "http://peizhishi.github.io"
 github: "http://www.github.com/peizhishi"
 orcid: "https://orcid.org/0000-0001-6724-282X"
 google: "https://scholar.google.com/citations?user=qQuCvmQAAAAJ&hl=en&oi=ao"
