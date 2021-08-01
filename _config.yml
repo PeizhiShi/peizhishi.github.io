@@ -5,6 +5,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-sitemap
 
 
 
@@ -29,7 +30,5 @@ menu:
     url: "resume.html"
 
 email: "p.shi@hud.ac.uk"
-webpage: "http://peizhishi.github.io"
 github: "http://www.github.com/peizhishi"
-orcid: "https://orcid.org/0000-0001-6724-282X"
 google: "https://scholar.google.com/citations?user=qQuCvmQAAAAJ&hl=en&oi=ao"

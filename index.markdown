@@ -7,7 +7,7 @@ title: Home
 ---
 ## About Me
 
-My name is Peizhi Shi. I am a research fellow at the EPSRC future advanced metrology hub in the University of Huddersfield. I do research in machine learning in math group. My email address is [{{site.email}}](mailto:{{site.email}}). 
+My name is Peizhi Shi. I am a research fellow at the EPSRC Future Advanced Metrology Hub in the University of Huddersfield. I do research in machine learning in math group. My email address is [{{site.email}}](mailto:{{site.email}}). 
 
 I received the PhD in computer science from the University of Manchester in 2019 under the supervision of Dr. Ke Chen, the master's degree in software engineering from the University of Science and Technology of China in 2013, and the bachelor's degree in computer science from the Guilin University of Electronic Technology in 2010.
 
