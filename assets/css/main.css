@@ -105,11 +105,14 @@ mark {
 		font-weight: bold;
 	}
 
-	
-
-	strong, b {
+	b {
 		font-weight: 700;
 		color: #232323;
+	}
+
+	strong {
+		font-weight: 700;
+		color: #565656;
 	}
 
 	h2 {
