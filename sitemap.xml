@@ -1,119 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>http://peizhishi.github.io//courses/2011-FM.html</loc>
-<lastmod>2021-07-31T01:06:31+01:00</lastmod>
+  <loc>http://peizhishi.github.io/</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//courses/2013-COMP26120.html</loc>
-<lastmod>2021-07-31T01:06:31+01:00</lastmod>
+  <loc>http://peizhishi.github.io/publications.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//courses/2015-COMP24111.html</loc>
-<lastmod>2021-07-31T01:06:31+01:00</lastmod>
+  <loc>http://peizhishi.github.io/index.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//courses/2015-COMP61021.html</loc>
-<lastmod>2021-07-31T01:06:31+01:00</lastmod>
+  <loc>http://peizhishi.github.io/teaching.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2012-ASPLS.html</loc>
-<lastmod>2021-07-31T01:07:51+01:00</lastmod>
+  <loc>http://peizhishi.github.io/software.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2016-CIG.html</loc>
-<lastmod>2021-07-31T01:08:02+01:00</lastmod>
+  <loc>http://peizhishi.github.io/resume.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2017-TIG.html</loc>
-<lastmod>2021-07-31T01:08:10+01:00</lastmod>
+  <loc>http://peizhishi.github.io/publications/2021-Z-TII.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2019-CP.html</loc>
-<lastmod>2021-07-31T01:08:18+01:00</lastmod>
+  <loc>http://peizhishi.github.io/publications/2021-C-VPP.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2020-A-CIE.html</loc>
-<lastmod>2021-07-31T01:08:29+01:00</lastmod>
+  <loc>http://peizhishi.github.io/publications/2021-B-AMT.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2020-B-VPP.html</loc>
-<lastmod>2021-07-31T01:08:38+01:00</lastmod>
+  <loc>http://peizhishi.github.io/publications/2020-Z-JIM.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2020-C-JIFS.html</loc>
-<lastmod>2021-07-31T01:07:44+01:00</lastmod>
+  <loc>http://peizhishi.github.io/publications/2020-C-JIFS.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2020-F-CP.html</loc>
-<lastmod>2021-07-31T01:09:00+01:00</lastmod>
+  <loc>http://peizhishi.github.io/publications/2020-B-VPP.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2020-Z-JIM.html</loc>
-<lastmod>2021-07-31T01:15:34+01:00</lastmod>
+  <loc>http://peizhishi.github.io/publications/2020-A-CIE.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2021-A-GC.html</loc>
-<lastmod>2021-07-31T01:15:29+01:00</lastmod>
+  <loc>http://peizhishi.github.io/softwares/2021-Z-TII.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2021-B-AMT.html</loc>
-<lastmod>2021-07-31T01:15:24+01:00</lastmod>
+  <loc>http://peizhishi.github.io/softwares/2020-Z-JIM.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2021-C-VPP.html</loc>
-<lastmod>2021-07-31T01:15:17+01:00</lastmod>
+  <loc>http://peizhishi.github.io/softwares/2020-B-VPP.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//publications/2021-Z-TII.html</loc>
-<lastmod>2021-07-31T01:14:29+01:00</lastmod>
+  <loc>http://peizhishi.github.io/softwares/2016-sheep.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//softwares/2010-lock.html</loc>
-<lastmod>2021-07-31T12:15:37+01:00</lastmod>
+  <loc>http://peizhishi.github.io/softwares/2011-hand.html</loc>
+  <lastmod>2021-08-02T12:45:58+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>http://peizhishi.github.io//softwares/2011-hand.html</loc>
-<lastmod>2021-07-31T12:05:40+01:00</lastmod>
+  <loc>http://peizhishi.github.io/Peizhi_Shi_CV.pdf</loc>
+  <lastmod>2021-08-02T12:45:54+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
-<url>
-<loc>http://peizhishi.github.io//softwares/2016-sheep.html</loc>
-<lastmod>2021-07-31T12:04:54+01:00</lastmod>
-</url>
-<url>
-<loc>http://peizhishi.github.io//softwares/2020-B-VPP.html</loc>
-<lastmod>2021-07-31T11:58:30+01:00</lastmod>
-</url>
-<url>
-<loc>http://peizhishi.github.io//softwares/2020-Z-JIM.html</loc>
-<lastmod>2021-07-31T11:47:55+01:00</lastmod>
-</url>
-<url>
-<loc>http://peizhishi.github.io//softwares/2021-Z-TII.html</loc>
-<lastmod>2021-07-31T11:59:07+01:00</lastmod>
-</url>
-<url>
-<loc>http://peizhishi.github.io//</loc>
-<lastmod>2021-08-02T00:43:55+01:00</lastmod>
-</url>
-<url>
-<loc>http://peizhishi.github.io//publications.html</loc>
-<lastmod>2021-07-31T11:01:15+01:00</lastmod>
-</url>
-<url>
-<loc>http://peizhishi.github.io//resume.html</loc>
-<lastmod>2021-07-31T01:06:31+01:00</lastmod>
-</url>
-<url>
-<loc>http://peizhishi.github.io//software.html</loc>
-<lastmod>2021-08-01T00:05:48+01:00</lastmod>
-</url>
-<url>
-<loc>http://peizhishi.github.io//teaching.html</loc>
-<lastmod>2021-07-31T01:06:31+01:00</lastmod>
-</url>
-<url>
-<loc>http://peizhishi.github.io//Peizhi_Shi_CV.pdf</loc>
-<lastmod>2021-07-31T01:06:31+01:00</lastmod>
-</url>
+
+
 </urlset>
