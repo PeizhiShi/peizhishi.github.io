@@ -2,7 +2,6 @@ theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
 collections:
   publications:
@@ -25,6 +24,4 @@ menu:
     url: "resume.html"
 
 email: "p.shi@hud.ac.uk"
-github: "http://www.github.com/peizhishi"
 google: "https://scholar.google.com/citations?user=qQuCvmQAAAAJ&hl=en&oi=ao"
-url: "https://peizhishi.github.io"
