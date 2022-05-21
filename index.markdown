@@ -16,6 +16,8 @@ My research interests include machine learning and its applications in intellige
 **Machine Learning**: Computer vision, object detection, deep learning, active learning, semi-supervised learning, cost-sensitive learning, reinforcement learning, dimension reduction, unsupervised learning.\
 **Intelligent Manufacturing**: Machining feature recognition, design for additive manufacturing.
 
-<a href="https://clustrmaps.com/site/1bohv" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=GNKaZ2hx2hnIWDV343dbm1lxrydeLScrzGYnPqib9SA&cl=ffffff"></a>
+<br><br><br>
+
+<a href="https://clustrmaps.com/site/1bohv" title="Visit tracker"><img width=5px src="//www.clustrmaps.com/map_v2.png?d=GNKaZ2hx2hnIWDV343dbm1lxrydeLScrzGYnPqib9SA&cl=ffffff"></a>
 
 
