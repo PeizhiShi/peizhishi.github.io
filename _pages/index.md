@@ -5,7 +5,7 @@ author_profile: true
 
 ## About Me
 
-I am an incoming lecturer in applied artificial intelligence at the [Centre for Decision Research](https://cdr.leeds.ac.uk/), [University of Leeds](https://www.leeds.ac.uk/). In June 2019, I completed my Ph.D. in Computer Science under the supervision of [Dr. Ke Chen](https://www.cs.man.ac.uk/~kechen/index.php) from the Machine Learning and Optimization Group, School of Computer Science, [University of Manchester](https://www.manchester.ac.uk/). From 2019 to 2023, I served as a Research Fellow in Machine Learning at the Maths Group of the EPSRC Future Advanced Metrology Hub. 
+I am an incoming Lecturer in Applied Artificial Intelligence at the [Centre for Decision Research](https://cdr.leeds.ac.uk/), [University of Leeds](https://www.leeds.ac.uk/). In March 2019, I completed my Ph.D. in Computer Science under the supervision of [Dr. Ke Chen](https://www.cs.man.ac.uk/~kechen/index.php) from the Machine Learning and Optimization Group, School of Computer Science, [University of Manchester](https://www.manchester.ac.uk/). From 2019 to 2023, I served as a Research Fellow in Machine Learning at the Maths Group of the EPSRC Future Advanced Metrology Hub. 
 
 ### Research Interests
 
@@ -28,7 +28,7 @@ My research interests are machine learning and its applications in intelligent s
 - [01/2020] Our paper [Automatic generation of alternative build orientations for laser powder bed fusion based on facet clustering](https://doi.org/10.1080/17452759.2020.1756086) has been accepted for publication in Virtual and Physical Prototyping!
 - [11/2019] I was invited to give a talk on “Machine Learning and its Applications” in the EPSRC Future Advanced Metrology Hub.
 - [06/2019] I joined EPSRC Future Advanced Metrology Hub as Research Fellow in Machine Learning from June 2019!
-- [04/2019] I was awarded a Ph.D. degree in Computer Science under the supervision of Dr. Ke Chen from the Machine Learning and Optimization Group, School of Computer Science, University of Manchester.
+- [03/2019] I was awarded a Ph.D. degree in Computer Science under the supervision of Dr. Ke Chen from the Machine Learning and Optimization Group, School of Computer Science, University of Manchester.
 
 
 
