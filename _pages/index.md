@@ -5,7 +5,7 @@ author_profile: true
 
 ## About Me
 
-I am an incoming Lecturer in Applied Artificial Intelligence at the [Centre for Decision Research](https://cdr.leeds.ac.uk/), [University of Leeds](https://www.leeds.ac.uk/). In March 2019, I completed my Ph.D. in Computer Science under the supervision of [Dr. Ke Chen](https://www.cs.man.ac.uk/~kechen/index.php) from the Machine Learning and Optimization Group, School of Computer Science, [University of Manchester](https://www.manchester.ac.uk/). From 2019 to 2023, I served as a Research Fellow in Machine Learning at the Maths Group of the EPSRC Future Advanced Metrology Hub. 
+I am a Lecturer in Applied Artificial Intelligence at the [Centre for Decision Research](https://cdr.leeds.ac.uk/), [University of Leeds](https://www.leeds.ac.uk/). In March 2019, I completed my Ph.D. in Computer Science under the supervision of [Dr. Ke Chen](https://www.cs.man.ac.uk/~kechen/index.php) from the Machine Learning and Optimization Group, School of Computer Science, [University of Manchester](https://www.manchester.ac.uk/). From 2019 to 2023, I served as a Research Fellow in Machine Learning at the Maths Group of the EPSRC Future Advanced Metrology Hub. 
 
 ### Research Interests
 
@@ -87,7 +87,7 @@ My research interests are machine learning and its applications in intelligent s
 - 2006-2010, Bachelor in Computer Science, Guilin University of Electronic Technology
 
 ### Work Experience
-- 2023-, Incoming Lecturer in Applied Artificial Intelligence, University of Leeds
+- 2023-present, Lecturer in Applied Artificial Intelligence, University of Leeds
 - 2019-2023,  Research Fellow in Machine Learning, EPSRC Future Advanced Metrology Hub
 
 A PDF copy of my CV is available here [<i class="fas fa-file-pdf zoom" aria-hidden="true"></i>](/files/Peizhi_Shi_CV.pdf).
