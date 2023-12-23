@@ -16,6 +16,7 @@ My research interests are machine learning and its applications in intelligent s
 
 ## Recent News
 
+- [10/2023] I was invited to give a talk on “Machine Learning for Decision-making in Intelligent Manufacturing” at the Centre for Decision Research, University of Leeds.
 - [09/2023] I am joining Centre for Decision Research, University of Leeds as Lecturer in Applied Artificial Intelligence from September 2023!
 - [06/2023] Our paper [A novel weighted averaging operator of linguistic interval-valued intuitionistic fuzzy numbers for cognitively inspired decision-making](https://doi.org/10.1007/s12559-023-10167-y) has been accepted for publication in Cognitive Computation!
 - [04/2023] I was invited to give a talk on “Machine Learning Research in Intelligent Manufacturing” at the research festival hosted by the University of Huddersfield.
@@ -43,6 +44,8 @@ My research interests are machine learning and its applications in intelligent s
 
 ## Teaching
 
+- 2024, Teaching Staff, LUBS5990M: Machine Learning in Practice, University of Leeds
+- 2023, Teaching Staff, LUBS5308M: Business Analytics and Decision Science, University of Leeds
 - 2015, Teaching Assistant, COMP61021: Modelling and Visualization of High Dimensional Data, University of Manchester
 - 2015, Teaching Assistant, COMP24111: Introduction to Machine Learning, University of Manchester
 - 2013--2017, Teaching Assistant, COMP26120: Algorithms and Imperative Programming, University of Manchester
@@ -70,14 +73,12 @@ My research interests are machine learning and its applications in intelligent s
 
 
 ### Invited Talk
+- 2023, "Machine Learning for Decision-making in Intelligent Manufacturing", centre for decision research, University of Leeds, UK
 - 2023, "Machine Learning Research in Intelligent Manufacturing", research festival, University of Huddersfield, UK
 - 2019, "Machine Learning and its Applications", EPSRC Future Advanced Metrology Hub, UK
 
 ### External Mentor
 - 2022-present, research mentor for Msc and PhDs, University of Huddersfield, UK
-
-### Organising Committee Member
-- 2024, 18th CIRP Conference on Computer Aided Tolerancing, Huddersfield, UK
 
 ## Biography
 
