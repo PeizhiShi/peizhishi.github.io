@@ -61,10 +61,7 @@ My research interests are machine learning and its applications in intelligent s
 - [Artificial Intelligence Review](https://www.springer.com/journal/10462/)
 - [Complexity](https://www.hindawi.com/journals/complexity/)
 - [Journal of Intelligent Manufacturing](https://www.springer.com/journal/10845)
-- [Mathematics](https://www.mdpi.com/journal/mathematics)
-- [Sustainability](https://www.mdpi.com/journal/Sustainability)
 - [CIRP Annals - Manufacturing Technology](https://www.sciencedirect.com/journal/cirp-annals)
-- [Sensors](https://www.mdpi.com/journal/Sensors)
 - [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673)
 
 
@@ -90,9 +87,6 @@ My research interests are machine learning and its applications in intelligent s
 ### Work Experience
 - 2023-present, Lecturer in Applied Artificial Intelligence, University of Leeds
 - 2019-2023,  Research Fellow in Machine Learning, EPSRC Future Advanced Metrology Hub
-
-A PDF copy of my CV is available here [<i class="fas fa-file-pdf zoom" aria-hidden="true"></i>](/files/Peizhi_Shi_CV.pdf).
-
 
 
 
