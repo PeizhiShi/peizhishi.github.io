@@ -11,10 +11,7 @@ I am a Lecturer in Applied Artificial Intelligence at the [Centre for Decision R
 
 My research interests are machine learning and its applications in intelligent system development. I have been working in machine learning for over ten years and have authored or co-authored {{site.publications | size}} academic papers in various journals, such as IEEE Transactions on Industrial Informatics, Robotics and Computer-Integrated Manufacturing, Journal of Intelligent Manufacturing, IEEE Transactions on Games, Virtual and Physical Prototyping, Computers & Industrial Engineering, and Cognitive Computation. For details, please visit my [Publications](index.html#publications) and [Google Scholar](https://scholar.google.com/citations?user=qQuCvmQAAAAJ) pages. The scope of my current research covers various aspects of Industry 4.0, involving the expansion of the role of machine learning in subtractive/additive manufacturing, engineering management, and operational research. After years of exploring the use of machine learning in engineering contexts, I would also like to expand my research focus to include larger scopes in business and social contexts. My current machine learning research topics include computer vision, 3D object detection, deep learning, semi-supervised learning, small-sample learning, and generalisable reinforcement learning.
 
-
-
-
-## Recent News
+### Recent News
 
 - [10/2023] I was invited to give a talk on “Machine Learning for Decision-making in Intelligent Manufacturing” at the Centre for Decision Research, University of Leeds.
 - [09/2023] I am joining Centre for Decision Research, University of Leeds as Lecturer in Applied Artificial Intelligence from September 2023!
@@ -53,7 +50,7 @@ My research interests are machine learning and its applications in intelligent s
 
 
 
-## Professional Activity
+## Activity
 
 ### Journal Reviewer
 - [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)
