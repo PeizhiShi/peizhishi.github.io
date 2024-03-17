@@ -62,18 +62,13 @@ Through extensive research experience, I have cultivated a diverse skill set in 
 - [CIRP Annals - Manufacturing Technology](https://www.sciencedirect.com/journal/cirp-annals)
 - [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673)
 
-
 ### Guest Editor
 - Special Issue ”[Application of Artificial Intelligence Techniques in Additive Manufacturing](https://www.mdpi.com/journal/processes/special_issues/Artificial_Intelligence_Manufacturing)” of Processes.
-
 
 ### Invited Talk
 - 2023, "Machine Learning for Decision-making in Intelligent Manufacturing", centre for decision research, University of Leeds, UK
 - 2023, "Machine Learning Research in Intelligent Manufacturing", research festival, University of Huddersfield, UK
 - 2019, "Machine Learning and its Applications", EPSRC Future Advanced Metrology Hub, UK
-
-### External Mentor
-- 2022-present, research mentor for Msc and PhDs, University of Huddersfield, UK
 
 ## Biography
 
@@ -83,7 +78,7 @@ Through extensive research experience, I have cultivated a diverse skill set in 
 - 2006-2010, Bachelor in Computer Science, Guilin University of Electronic Technology
 
 ### Work Experience
-- 2023-present, Lecturer in Applied Artificial Intelligence, University of Leeds
+- 2023-present, Lecturer in Applied AI, University of Leeds
 - 2019-2023,  Research Fellow in Machine Learning, EPSRC Future Advanced Metrology Hub
 
 
