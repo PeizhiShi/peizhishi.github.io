@@ -3,6 +3,7 @@ title:  "Learning constructive primitives for real-time dynamic difficulty adjus
 authors: [P. Shi, K. Chen]
 year: 2017
 journal: IEEE Transactions on Games
+category: "ML"
 ---
 
 
