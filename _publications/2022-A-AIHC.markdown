@@ -3,4 +3,5 @@ title:  "A multi-criterion three-way decision-making method under linguistic int
 authors: [Y. Qin, Q. Qi, P. Shi, P. J. Scott, X. Jiang]
 journal: "Journal of Ambient Intelligence and Humanized Computing"
 year: 2022
+category: "AI"
 ---
