@@ -35,7 +35,7 @@ My research interests include machine learning, computer vision, artificial inte
 {% include base_path %}
 
 
-<ol>{% for post in site.publications reversed %}{% if post.ml %}{% include achieve_paper_title.html %} {% endif %}{% endfor %}</ol>
+<ol>{% for post in site.publications reversed %}{% if post.category == 'ML' %}{% include achieve_paper_title.html %} {% endif %}{% endfor %}</ol>
 
 
 ## Teaching
