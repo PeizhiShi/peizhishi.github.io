@@ -3,4 +3,5 @@ title:  "Archimedean Muirhead aggregation operators of q-rung orthopair fuzzy nu
 authors: [Y. Qin, X. Cui, M. Huang, Y. Zhong, Z. Tang, P. Shi]
 journal: Complexity
 year: 2019
+category: "AI"
 ---
