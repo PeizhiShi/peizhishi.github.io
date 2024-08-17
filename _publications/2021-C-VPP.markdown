@@ -6,4 +6,5 @@ year: 2021
 if: 10.962
 doi: "https://doi.org/10.1080/17452759.2020.1832793"
 github: "https://github.com/YuchuChingQin/LPBFPartOrientation"
+category: "ML"
 ---
