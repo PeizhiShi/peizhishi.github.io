@@ -7,6 +7,7 @@ if: 7.136
 doi: "https://doi.org/10.1007/s10845-020-01533-w"
 pdf: "https://link.springer.com/content/pdf/10.1007/s10845-020-01533-w.pdf"
 github: "https://github.com/PeizhiShi/MsvNet"
+category: "ML"
 ---
 
 
