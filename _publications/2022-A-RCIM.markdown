@@ -5,4 +5,5 @@ journal: "Robotics and Computer-Integrated Manufacturing"
 if: 10.4
 year: 2022
 doi: "https://doi.org/10.1016/j.rcim.2021.102260"
+category: "ML"
 ---
