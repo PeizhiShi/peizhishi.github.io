@@ -41,6 +41,7 @@ My research interests include machine learning, computer vision, artificial inte
 ## Teaching
 
 - 2024/2025, Module Leader, LUBS5586M: Quantitative Analysis, University of Leeds
+- 2024/2025, Teaching Staff, LUBS5308M: Business Analytics and Decision Science, University of Leeds
 - 2023/2024, Teaching Staff, LUBS5990M: Machine Learning in Practice, University of Leeds
 - 2023/2024, Teaching Staff, LUBS5308M: Business Analytics and Decision Science, University of Leeds
 - 2015, Teaching Assistant, COMP61021: Modelling and Visualization of High Dimensional Data, University of Manchester
