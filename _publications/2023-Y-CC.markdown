@@ -4,4 +4,5 @@ authors: [Y. Qin, Q. Qi, P. Shi, P. J. Scott, X. Jiang]
 journal: "Cognitive Computation"
 year: 2023
 doi: "https://doi.org/10.1007/s12559-023-10167-y"
+category: "AI"
 ---
