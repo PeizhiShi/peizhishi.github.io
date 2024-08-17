@@ -4,4 +4,5 @@ authors: [Y. Qin, S. Lou, P. Shi, W. Zeng, P. J. Scott, X. Jiang]
 journal: The International Journal of Advanced Manufacturing Technology
 year: 2024 
 doi: "https://doi.org/10.1007/s00170-023-12826-8"
+category: "AI"
 ---
