@@ -6,4 +6,5 @@ year: 2021
 if: 12.3
 github: "https://github.com/PeizhiShi/SsdNet"
 doi: "https://doi.org/10.1109/TII.2020.3030620"
+category: "ML"
 ---
