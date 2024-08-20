@@ -62,6 +62,10 @@
     @include breakpoint($large) {
       padding-right: 4.4em;
     }
+
+    @include breakpoint($medium) {
+      padding-right: 1.4em;
+    }
     
   }
 }
