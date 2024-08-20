@@ -9,7 +9,7 @@ I am a Lecturer in Applied Artificial Intelligence at the [Centre for Decision R
 
 My research interests include **machine learning (ML), computer vision (CV), artificial intelligence (AI), and their real-world applications**, particularly in sustainable manufacturing, design for additive manufacturing, and production research. I have been conducting research in machine learning for over ten years and have authored or co-authored {{site.publications | size}} papers in leading journals in my field, such as IEEE Transactions on Industrial Informatics, Robotics and Computer-Integrated Manufacturing, Virtual and Physical Prototyping, Journal of Intelligent Manufacturing, Computers & Industrial Engineering, and Cognitive Computation. For details, please visit my [Publications](index.html#publications) and [Google Scholar](https://scholar.google.com/citations?user=qQuCvmQAAAAJ) pages. 
 
-## Machine learning publications
+## ML research & publications
 
 {% include base_path %}
 
@@ -18,15 +18,20 @@ My research interests include **machine learning (ML), computer vision (CV), art
 For other AI-related publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=qQuCvmQAAAAJ) pages. 
 
 
-## Teaching
+## Teaching experience
 
-- 2024, Module leader, LUBS5586M: Quantitative analysis, University of Leeds
-- 2024, Teaching staff, LUBS5990M: Machine learning in practice, University of Leeds
-- 2023--2024, Teaching staff, LUBS5308M: Business analytics and decision science, University of Leeds
-- 2015, Teaching assistant, COMP61021: Modelling and visualization of high dimensional data, University of Manchester
-- 2015, Teaching assistant, COMP24111: Introduction to machine learning, University of Manchester
-- 2013--2017, Teaching assistant, COMP26120: Algorithms and imperative programming, University of Manchester
-- 2011, Teaching assistant, 3rd Asian-Pacfic summer school on formal methods, University of Science and Technology of China
+### Module leader
+- 2024, LUBS5586M: Quantitative analysis, University of Leeds
+
+### Teaching staff
+- 2024, LUBS5990M: Machine learning in practice, University of Leeds
+- 2023--2024, LUBS5308M: Business analytics and decision science, University of Leeds
+
+### Teaching assistant
+- 2015, COMP61021: Modelling and visualization of high dimensional data, University of Manchester
+- 2015, COMP24111: Introduction to machine learning, University of Manchester
+- 2013--2017, COMP26120: Algorithms and imperative programming, University of Manchester
+- 2011, 3rd Asian-Pacfic summer school on formal methods, University of Science and Technology of China
 
 
 ## Professional activity
