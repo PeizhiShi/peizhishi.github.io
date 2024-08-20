@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Peizhi Shi"
+title                    : "Dr. Peizhi Shi "
 title_separator          : "-"
 name                     : &name "Dr. Peizhi Shi"
 description              : &description "Lecturer in Applied Artificial Intelligence"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Peizhi Shi"
   avatar           : "myprofile.jpeg"
-  bio              : "Lecturer in Applied AI"
+  bio              : "Lecturer in Artificial Intelligence"
   location         : 
   employer         : "University of Leeds"
   pubmed           : 
