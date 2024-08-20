@@ -9,38 +9,13 @@ I am a Lecturer in Applied Artificial Intelligence at the [Centre for Decision R
 
 My research interests include machine learning (ML), computer vision (CV), artificial intelligence (AI), and their real-world applications, particularly in sustainable manufacturing, design for additive manufacturing, and production research. I have been conducting research in machine learning for over ten years and have authored or co-authored {{site.publications | size}} papers in leading journals in my field, such as IEEE Transactions on Industrial Informatics, Robotics and Computer-Integrated Manufacturing, Virtual and Physical Prototyping, Journal of Intelligent Manufacturing, Computers & Industrial Engineering, and Cognitive Computation. For details, please visit my [Publications](index.html#publications) and [Google Scholar](https://scholar.google.com/citations?user=qQuCvmQAAAAJ) pages. 
 
-### Recent News
-
-- [08/2024] Our abstract has been accepted for presentation at the Operations and Supply Chain Management (OSCM) Conference. This is joint work with Dr. Fanlin Meng from the University of Exeter Business School and Dr. Yuchu Qin from the EPSRC Future Advanced Metrology Hub.
-- [10/2023] I was invited to give a talk on “Machine Learning for Decision-making in Intelligent Manufacturing” at the Centre for Decision Research, University of Leeds.
-- [09/2023] I am joining Centre for Decision Research, University of Leeds as Lecturer in Applied Artificial Intelligence from September 2023!
-- [06/2023] Our paper [A novel weighted averaging operator of linguistic interval-valued intuitionistic fuzzy numbers for cognitively inspired decision-making](https://doi.org/10.1007/s12559-023-10167-y) has been accepted for publication in Cognitive Computation!
-- [04/2023] I was invited to give a talk on “Machine Learning Research in Intelligent Manufacturing” at the research festival hosted by the University of Huddersfield.
-- [02/2023] Our work [Learn to rotate: Part orientation for reducing support volume via generalizable reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10054468) has been accepted for publication in IEEE Transactions on Industrial Informatics! This is joint work with Dr. Fanlin Meng from Alliance Manchester Business School, University of Manchester.
-- [09/2021] Our paper [Highly interacting machining feature recognition via small sample learning](https://doi.org/10.1016/j.rcim.2021.102260) has been accepted for publication in Robotics and Computer-Integrated Manufacturing!
-- [10/2020] Our work [Intersecting machining feature localisation and recognition via single shot multibox detector](https://doi.org/10.1109/TII.2020.3030620) has been accepted for publication in IEEE Transactions on Industrial Informatics!
-- [10/2020] Our paper [Automatic determination of part build orientation for laser powder bed fusion](https://doi.org/10.1080/17452759.2020.1832793) has been accepted for publication in Virtual and Physical Prototyping!
-- [09/2020] Our paper [Novel operational laws and power Muirhead mean operators of picture fuzzy values in the framework of Dempster-Shafer theory for multiple criteria decision making](https://doi.org/10.1016/j.cie.2020.106853) has been accepted for publication in Computers & Industrial Engineering!
-- [01/2020] Our paper [A novel learning-based feature recognition method using multiple sectional view representation](https://doi.org/10.1007/s10845-020-01533-w) has been accepted for publication in Journal of Intelligent Manufacturing!
-- [01/2020] Our paper [Automatic generation of alternative build orientations for laser powder bed fusion based on facet clustering](https://doi.org/10.1080/17452759.2020.1756086) has been accepted for publication in Virtual and Physical Prototyping!
-- [11/2019] I was invited to give a talk on “Machine Learning and its Applications” in the EPSRC Future Advanced Metrology Hub.
-- [06/2019] I joined EPSRC Future Advanced Metrology Hub as Research Fellow in Machine Learning from June 2019!
-- [03/2019] I was awarded a Ph.D. degree in Computer Science under the supervision of Dr. Ke Chen from the Machine Learning and Optimization Group, School of Computer Science, University of Manchester.
-
-
-
-
-## Publications
+## ML Publications
 
 {% include base_path %}
 
-### ML Research
-
 <ol>{% for post in site.publications reversed %}{% if post.category == 'ML' %}{% include achieve_paper_title.html %} {% endif %}{% endfor %}</ol>
 
-### Other AI Research
-
-<ol>{% for post in site.publications reversed %}{% if post.category == 'AI' %}{% include achieve_paper_title.html %} {% endif %}{% endfor %}</ol>
+For other AI-related publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=qQuCvmQAAAAJ) pages. 
 
 
 ## Teaching
