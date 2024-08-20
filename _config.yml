@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Peizhi Shi"
+title                    : "Dr Peizhi sShi"
 title_separator          : "-"
-name                     : &name "Dr Peizhi Shi"
+name                     : &name "Dr Peizhi wShi"
 description              : &description "Lecturer in Applied Artificial Intelligence"
 url                      : https://peizhishi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
