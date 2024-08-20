@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Peizhi Shi"
+title                    : "Dr.  Peizhi Shi"
 title_separator          : "-"
 name                     : &name "Dr. Peizhi Shi"
 description              : &description "Lecturer in Applied Artificial Intelligence"
