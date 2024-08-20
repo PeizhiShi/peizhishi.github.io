@@ -57,7 +57,11 @@
 
   &--lg {
     font-size: 130%;
-    padding-right: 4.4em;
+    padding-right: 1.4em;
+
+    @include breakpoint($x) {
+      padding-right: 4.4em;
+    }
     
   }
 }
