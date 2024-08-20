@@ -5,9 +5,9 @@ author_profile: true
 
 ## About me
 
-I am a Lecturer in Applied Artificial Intelligence at the [Centre for Decision Research](https://cdr.leeds.ac.uk/), [University of Leeds](https://www.leeds.ac.uk/). In March 2019, I completed my Ph.D. in Computer Science under the supervision of [Dr. Ke Chen](https://www.cs.man.ac.uk/~kechen/index.php) from the Machine Learning and Optimization Group, School of Computer Science, [University of Manchester](https://www.manchester.ac.uk/). From 2019 to 2023, I served as a Research Fellow in Machine Learning at the Maths Group of the EPSRC Future Advanced Metrology Hub. 
+I am a [Lecturer in Applied Artificial Intelligence](https://business.leeds.ac.uk/faculty/staff/2083/dr-peizhi-shi) at the Centre for Decision Research, University of Leeds. In March 2019, I completed my Ph.D. in Computer Science under the supervision of [Dr. Ke Chen](https://www.cs.man.ac.uk/~kechen/index.php) from the Machine Learning and Optimization Group, School of Computer Science, University of Manchester. From 2019 to 2023, I served as a Research Fellow in Machine Learning at the Maths Group of the EPSRC Future Advanced Metrology Hub. 
 
-My research interests include **machine learning (ML), computer vision (CV), artificial intelligence (AI), and their real-world applications**, particularly in sustainable manufacturing, design for additive manufacturing, and production research. I have been conducting research in machine learning for over ten years and have authored or co-authored {{site.publications | size}} papers in leading journals in my field, such as IEEE Transactions on Industrial Informatics, Robotics and Computer-Integrated Manufacturing, Virtual and Physical Prototyping, Journal of Intelligent Manufacturing, Computers & Industrial Engineering, and Cognitive Computation. For details, please visit my [Publications](index.html#ml-research--publications) and [Google Scholar](https://scholar.google.com/citations?user=qQuCvmQAAAAJ) pages. 
+My research interests include **machine learning (ML), artificial intelligence (AI), and their real-world applications**, particularly in sustainable manufacturing, design for additive manufacturing, and production research. I have been conducting research in machine learning for over ten years and have authored or co-authored {{site.publications | size}} papers in leading journals in my field, such as IEEE Transactions on Industrial Informatics, Robotics and Computer-Integrated Manufacturing, Virtual and Physical Prototyping, Journal of Intelligent Manufacturing, Computers & Industrial Engineering, and Cognitive Computation. For details, please visit my [Publications](index.html#ml-research--publications) and [Google Scholar](https://scholar.google.com/citations?user=qQuCvmQAAAAJ) pages. 
 
 ## ML research & publications
 
@@ -21,17 +21,17 @@ For other AI-related publications, please visit my [Google Scholar](https://scho
 ## Teaching experience
 
 ### Module leader
-- 2024, LUBS5586M: Quantitative analysis, University of Leeds
+- Quantitative analysis (2024), University of Leeds
 
 ### Teaching staff
-- 2024, LUBS5990M: Machine learning in practice, University of Leeds
-- 2023--2024, LUBS5308M: Business analytics and decision science, University of Leeds
+- Machine learning in practice (2024), University of Leeds
+- Business analytics and decision science (2023--2024), University of Leeds
 
 ### Teaching assistant
-- 2015, COMP61021: Modelling and visualization of high dimensional data, University of Manchester
-- 2015, COMP24111: Introduction to machine learning, University of Manchester
-- 2013--2017, COMP26120: Algorithms and imperative programming, University of Manchester
-- 2011, 3rd Asian-Pacfic summer school on formal methods, University of Science and Technology of China
+- Modelling and visualization of high dimensional data (2015), University of Manchester
+- Introduction to machine learning (2015), University of Manchester
+- Algorithms and imperative programming (2013--2017), University of Manchester
+- 3rd Asian-Pacfic summer school on formal methods (2011), University of Science and Technology of China
 
 
 ## Professional activity
