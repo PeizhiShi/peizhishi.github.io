@@ -229,7 +229,7 @@
       &:before {
         content: "";
         position: absolute;
-        left: 20px;
+        left: 0px;
         bottom: 0;
         height: 4px;
         background: $masthead-link-color-hover;
@@ -347,7 +347,7 @@
 
 .nav__title {
   margin: 0;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 111rem;
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
   font-weight: bold;
