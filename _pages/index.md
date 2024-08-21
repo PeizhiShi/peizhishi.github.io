@@ -66,12 +66,12 @@ For other AI-related publications, please visit my [Google Scholar](https://scho
 
 ## Recent news
 
-- [08/2024] Our abstract has been accepted for presentation at the Operations and Supply Chain Management (OSCM) Conference. This is joint work with Dr. Fanlin Meng from the University of Exeter Business School and Dr. Yuchu Qin from the EPSRC Future Advanced Metrology Hub.
-- [10/2023] I was invited to give a talk on “Machine Learning for Decision-making in Intelligent Manufacturing” at the Centre for Decision Research, University of Leeds.
-- [09/2023] I am joining Centre for Decision Research, University of Leeds as Lecturer in Applied Artificial Intelligence from September 2023!
-- [06/2023] Our paper [A novel weighted averaging operator of linguistic interval-valued intuitionistic fuzzy numbers for cognitively inspired decision-making](https://doi.org/10.1007/s12559-023-10167-y) has been accepted for publication in Cognitive Computation!
-- [04/2023] I was invited to give a talk on “Machine Learning Research in Intelligent Manufacturing” at the research festival hosted by the University of Huddersfield.
-- [02/2023] Our work [Learn to rotate: Part orientation for reducing support volume via generalizable reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10054468) has been accepted for publication in IEEE Transactions on Industrial Informatics! This is joint work with Dr. Fanlin Meng from Alliance Manchester Business School, University of Manchester.
+- Our abstract has been accepted for presentation at the Operations and Supply Chain Management (OSCM) Conference. This is joint work with Dr. Fanlin Meng from the University of Exeter Business School and Dr. Yuchu Qin from the EPSRC Future Advanced Metrology Hub.
+- I was invited to give a talk on “Machine Learning for Decision-making in Intelligent Manufacturing” at the Centre for Decision Research, University of Leeds.
+- I am joining Centre for Decision Research, University of Leeds as Lecturer in Applied Artificial Intelligence from September 2023!
+- Our paper [A novel weighted averaging operator of linguistic interval-valued intuitionistic fuzzy numbers for cognitively inspired decision-making](https://doi.org/10.1007/s12559-023-10167-y) has been accepted for publication in Cognitive Computation!
+- I was invited to give a talk on “Machine Learning Research in Intelligent Manufacturing” at the research festival hosted by the University of Huddersfield.
+- Our work [Learn to rotate: Part orientation for reducing support volume via generalizable reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10054468) has been accepted for publication in IEEE Transactions on Industrial Informatics! This is joint work with Dr. Fanlin Meng from Alliance Manchester Business School, University of Manchester.
 
 
 
