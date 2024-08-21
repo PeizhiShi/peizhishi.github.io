@@ -37,13 +37,19 @@ For other AI-related publications, please visit my [Google Scholar](https://scho
 ## Professional activity
 
 ### Journal reviewer
-- [IEEE Transactions on Industrial Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424)
-- [Robotics and Computer-integrated Manufacturing](https://www.sciencedirect.com/journal/robotics-and-computer-integrated-manufacturing)
-- [Artificial Intelligence Review](https://www.springer.com/journal/10462/)
-- [Complexity](https://www.hindawi.com/journals/complexity/)
-- [Journal of Intelligent Manufacturing](https://www.springer.com/journal/10845)
-- [CIRP Annals - Manufacturing Technology](https://www.sciencedirect.com/journal/cirp-annals)
-- [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673)
+- IEEE Transactions on Industrial Informatics
+- Robotics and Computer-integrated Manufacturing
+- Artificial Intelligence Review
+- Journal of Intelligent Manufacturing
+- CIRP Annals - Manufacturing Technology
+- IEEE Transactions on Games
+- Journal of Business Analytics
+- Journal of the Operational Research Society
+- Scientific Reports
+- Mathematics
+- Sustainability
+- Sensors
+- Complexity
 
 ### Guest editor
 - Special Issue ”[Application of Artificial Intelligence Techniques in Additive Manufacturing](https://www.mdpi.com/journal/processes/special_issues/Artificial_Intelligence_Manufacturing)” of Processes.
