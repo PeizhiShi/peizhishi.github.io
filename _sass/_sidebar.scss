@@ -80,11 +80,7 @@
   // height: 36px;
   
 
-  @include breakpoint($large) {
-    display: table-cell;
-    width: auto;
-    height: auto;
-  }
+  
   
   
 
