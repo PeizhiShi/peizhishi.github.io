@@ -46,10 +46,6 @@ For other AI-related publications, please visit my [Google Scholar](https://scho
 - Journal of Business Analytics
 - Journal of the Operational Research Society
 - Scientific Reports
-- Mathematics
-- Sustainability
-- Sensors
-- Complexity
 
 ### Guest editor
 - Special Issue ”[Application of Artificial Intelligence Techniques in Additive Manufacturing](https://www.mdpi.com/journal/processes/special_issues/Artificial_Intelligence_Manufacturing)” of Processes.
